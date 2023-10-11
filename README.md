@@ -1,11 +1,12 @@
 ### Hi there 👋 
-🌱 I am an Android and Flutter enthusiast living currently in Germany. 
+🌱 I am an Android and Flutter enthusiast, living currently in Germany. 
 
 🌱 In addition to coding, I have a passion for ☕ coffee and a love for 🏃‍♀️ running.
 <p align="center">
-<a href="https://developers.google.com/profile/u/natasamisic"><img alt="Google Developer Expert" src="https://img.shields.io/badge/GoogleDev-Android_Developer"/></a> 
+<a href="https://developers.google.com/profile/u/natasamisic"><img alt="Google Developer Expert" src="https://img.shields.io/badge/GoogleDeveloper-Android_Developer"/></a> 
 <a href="https://medium.com/@natasa.misic10"><img alt="Medium" src="https://img.shields.io/badge/Medium-natasa_misic?logo=medium&logoColor=black&color=%23f7c5ad"/></a>
-<a href="https://androiddev.social/natasam"> <img alt="Static Badge" src="https://img.shields.io/badge/AndroidDev_social-natasa_misic?logo=mastodon&logoColor=white&color=%238F00FF"></a>
+  <a href="https://www.linkedin.com/in/natasa-misic"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-natasa_misic?logo=linkedin&logoColor=white&color=blue"></a>
+<a href="https://androiddev.social/@natasam"> <img alt="Static Badge" src="https://img.shields.io/badge/AndroidDev-natasa_misic?logo=mastodon&logoColor=white&color=%238F00FF"></a>
 <a href="https://github.com/natasam"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=natasam&hide=contribs&show_icons=true"/></a>
 </p>
 <!--
