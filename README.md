@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🌱 I am an Kotlin enthusiast. 
+🌱 I am a Kotlin enthusiast. 
 
 🌱 In addition to coding, I have a passion for ☕ coffee and a love for 🏃‍♀️ running.
 <p align="left">
