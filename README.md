@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🌱 I am an Android and Flutter enthusiast, living currently in Germany. 
+🌱 I am an Kotlin enthusiast. 
 
 🌱 In addition to coding, I have a passion for ☕ coffee and a love for 🏃‍♀️ running.
 <p align="left">
